@@ -1,6 +1,6 @@
 ﻿# FCFM
 
-## Fase 1 🚀
+## Fase 1 
 
 * [Mapa mental 1](https://github.com/RodolfoTorresContreras/Mineria_de_datos/tree/master/Mapa_Mental)
 * [Presentación técnicas de mineria](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Clase/Regresion%20lineal.pdf)
