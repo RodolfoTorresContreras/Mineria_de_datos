@@ -8,3 +8,6 @@
 * [Ejercicios ll](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Ejercicios%20Tarea/Ejercicio_Reglas_Asociaci%C3%B3n.ipynb)
 * [Mapa Mental ll](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Mapa_Mental_2/Mapa_Mental_2.pdf)
 * [Resumenes](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Resumenes/Resumenes_1742143.pdf)
+
+## Fase 2
+* [Bases de datos](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Fase%202/Bases%20de%20datos/1742143_BasesdeDatos_012.pdf)
