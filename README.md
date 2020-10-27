@@ -12,3 +12,4 @@
 ## Fase 2
 * [Bases de datos](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Fase%202/Bases%20de%20datos/1742143_BasesdeDatos_012.pdf)
 * [Ejercicio Python Basico](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Fase%202/Ejercicio/PythonBasico_1742143.ipynb)
+* [Primer Avance Proyecto Integrador](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Fase%202/PIA/Avance1-PIA_5_012.pdf)
