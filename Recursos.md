@@ -1,4 +1,4 @@
-#Recursos
+# Recursos
 
 ## Base de datos: 
   * [Groceries dataset](https://www.kaggle.com/heeraldedhia/groceries-dataset)
