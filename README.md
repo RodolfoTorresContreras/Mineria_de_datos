@@ -17,3 +17,6 @@
 ## Fase 3
 
 * [Segundo avance Proyecto Integrador](https://github.com/RodolfoTorresContreras/Mineria_de_datos/tree/master/Fase%203)
+
+## Fase 4
+* [Presentación](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/AN%C3%81LISIS%20DEL%20CARRITO%20DE%20COMPRA.pdf)
