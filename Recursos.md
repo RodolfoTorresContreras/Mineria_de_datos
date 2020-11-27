@@ -18,3 +18,4 @@
   * Sklearn, NearestNeighbors
   
   ## Notebook: 
+   * [Cuaderno de trabajo.](https://github.com/RodolfoTorresContreras/Mineria_de_datos/blob/master/Notebook/Segundo%20avance.ipynb)
